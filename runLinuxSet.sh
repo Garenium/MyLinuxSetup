@@ -5,8 +5,8 @@
 
 TARGET_DIR="MySetup/"
 LOG_FILE="log.txt"
-PACKAGES="vim vim-gtk3 emacs tmux youtube-dl ffmpeg python3 python python-pip gcc g++ valgrind clisp ghc gdb 
-synaptic gedit default-jdk mpv xdotool redshift-gtk pandoc dict"
+PACKAGES="vim vim-gtk3 emacs tmux youtube-dl yt-dlp ffmpeg python3 python python-pip gcc g++ valgrind clisp ghc gdb 
+synaptic gedit default-jdk mpv xdotool redshift-gtk pandoc dict gconf2"
 
 
 PACKAGE_TEST="xdotool"
